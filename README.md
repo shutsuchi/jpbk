@@ -47,4 +47,4 @@ then
 
 ## Author
 
-**Shutuschi**
+**Shutsuchi**
