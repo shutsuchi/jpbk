@@ -1,18 +1,16 @@
 <h1 align="center">JPBK</h1>
 <p align="center">Everyone can use JPBK as Markdown-memo or Javascript code-editor, and easily share with other people</p>
 
-## CAN'T USE IN THIS APP
+![Screen Shot 2021-09-27 at 22 31 38](https://user-images.githubusercontent.com/55044608/134919235-4a16673f-626e-4b31-8012-59f8516dc9e9.png)
 
-- CSS
-  - import statement
-  - get some font files
-- LocalStorage
-- Cookies
- because use process running on same app
+
+
 ## Available Commands
 
 In the project directory, you can run:
-### `npm start" : "react-scripts start"`,
+```
+> npx jpbk serve [filename]
+```
 
 ## Built With
 
@@ -27,6 +25,15 @@ In the project directory, you can run:
 - Lerna
 - HTML
 - CSS
+ 
+## CAN'T USE IN THIS APP
+
+- CSS
+  - import statement
+  - get some font files
+- LocalStorage
+- Cookies
+ because use process running on same app
 
 ## Installation
 on your terminal
