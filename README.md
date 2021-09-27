@@ -28,6 +28,16 @@ In the project directory, you can run:
 - HTML
 - CSS
 
+## Installation
+on your terminal
+```
+> npm install jpbk
+```
+then
+```
+> npx jpbk serve [filename]
+```
+
 ## Author
 
 **Shutuschi**
